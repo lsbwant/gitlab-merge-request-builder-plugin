@@ -3,7 +3,7 @@
     <parent>
         <groupId>org.eclipse.hudson.plugins</groupId>
         <artifactId>hudson-plugin-parent</artifactId>
-        <version>3.1.0</version>
+        <version>3.2.0-M0</version>
     </parent>
 
     <groupId>org.hudsonci.plugins</groupId>
@@ -13,7 +13,7 @@
 
     <name>Gitlab Merge Request Builder</name>
     <description>A plugin to build merge requests in Gitlab</description>
-    <url>https://wiki.jenkins-ci.org/display/JENKINS/Gitlab+Merge+Request+Builder+Plugin/<url>
+    <url>http://wiki.hudson-ci.org/display/HUDSON/Gitlab+Merge+Request+Builder+Plugin/</url>
 
     <developers>
         <developer>
